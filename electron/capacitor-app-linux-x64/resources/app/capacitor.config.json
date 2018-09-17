@@ -1,0 +1,6 @@
+{
+  "appId": "io.fundae.mobile",
+  "appName": "fundae-mobile",
+  "bundledWebRuntime": false,
+  "webDir": "dist/fundae-web"
+}
